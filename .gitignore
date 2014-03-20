@@ -20,3 +20,5 @@ tmp/
 *.iws
 
 /models
+/src/main/resources/ctb.gz
+/src/main/resources/pku.gz
