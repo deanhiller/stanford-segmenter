@@ -1,1 +1,1 @@
-This project is under the GPL from this webpage http://nlp.stanford.edu/software/segmenter.shtml
+This project is under the GPL v2 or greater as it says from this webpage http://nlp.stanford.edu/software/segmenter.shtml
