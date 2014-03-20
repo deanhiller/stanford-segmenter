@@ -1,0 +1,1 @@
+This project is under the GPL from this webpage http://nlp.stanford.edu/software/segmenter.shtml
